@@ -1,0 +1,17 @@
+.breadcrumbs {
+  background: black;
+}
+
+.breadcrumbs li {
+  list-style: none;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.breadcrumb-active a{
+  color: blue;
+}
+
+.breadcrumbs li a {
+  color: #fff;
+}
